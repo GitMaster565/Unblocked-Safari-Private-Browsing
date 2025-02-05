@@ -25,6 +25,12 @@ Add Unblocked-Safari-Private-Browsing to PATH:
 ```zsh
     PATH="path/to/dir/Unblocked-Safari-Private-Browsing":$PATH
 ```
+
+Lastly, set it up by typing in
+
+```zsh
+  chmod +x safari
+```
     
 ## Usage
 
