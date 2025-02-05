@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+figlet -f slant "Unblocked Safari Private Browsing"
+
+open -a Safari --args -private-window
+
+echo Success!
